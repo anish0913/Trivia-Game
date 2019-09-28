@@ -1,7 +1,7 @@
 # Anime Trivia Game
 
 
-Put you Anime knowlegde to the test with this multipe choice game
+Put your Anime knowlegde to the test with this multipe choice game!
 
 # Rules
 
